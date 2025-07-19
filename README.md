@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Franck! 👋
 
-<!--
-**franckmcy/franckmcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎯 Aspiring Software Engineer passionate about building solutions with code  
+📊 Exploring Data Science and Machine Learning  
+🌱 Currently learning Python, JavaScript, and modern development practices  
 
-Here are some ideas to get you started:
+## What I'm Learning
+- **Languages**: Python, JavaScript, SQL
+- **Tools**: VS Code, Git, Terminal, UV package manager
+- **Interests**: Web Development, Data Analysis, Machine Learning
+- **Currently**: Setting up development environment and building first projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals for July 2025
+- [ ] Complete Python fundamentals
+- [ ] Build 5 meaningful projects
+
+## Connect with Me
+📫 How to reach me:   
+💼 LinkedIn: 
+🌐 Portfolio: Coming Soon!
+
+---
+⚡ Fun fact: Just switched from Audit to tech - loving every moment of this journey!
